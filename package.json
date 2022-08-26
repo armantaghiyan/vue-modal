@@ -1,0 +1,23 @@
+{
+  "name": "vuejs3-modal",
+  "version": "0.2.0",
+  "description": "package for show modal in vue js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armantaghiyan/vue-modal.git"
+  },
+  "keywords": [
+    "vue",
+    "modal"
+  ],
+  "author": "arman taghiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armantaghiyan/vue-modal/issues"
+  },
+  "homepage": "https://github.com/armantaghiyan/vue-modal#readme"
+}
